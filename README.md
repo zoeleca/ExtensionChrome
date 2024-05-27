@@ -2,7 +2,10 @@
 # Extension NeuroPause (Blur effect)
 
 ## Présentation
- ![illus](images_readme/NeuroPause.png)   ![blur](images_readme/Blur.png)
+<img src="images_readme/NeuroPause.png"  width="300" height="300"/>      <img src="images_readme/Blur.png"  width="500" height="300"/> 
+<br>
+
+<a href="https://github.com/zoeleca/ExtensionChrome/blob/main/README_eng.md" target="_blank" rel="noreferrer">Click here for the English Version </a>
 
 
 NeuroPause est une extension de navigateur conçue pour faciliter les pauses écrans, avec une attention particulière à l'adaptation aux personnes atteintes du syndrome d'Asperger. L'extension propose une fenêtre contextuelle conviviale de taille moyenne, affichant des couleurs douces et apaisantes. Ce design a été élaboré en collaboration avec un infirmier spécialisé dans la prise en charge des personnes atteintes du syndrome d'Asperger, garantissant un environnement qui prend en compte les sensibilités sensorielles.
