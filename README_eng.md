@@ -1,8 +1,8 @@
 # Extension NeuroPause (Blur effect)
 
-## Présentation
+## Presentation
 
-![illus](images_readme/NeuroPause.png) ![blur](images_readme/Blur.png)
+<img src="images_readme/NeuroPause.png"  width="300" height="300"/>      <img src="images_readme/Blur.png"  width="500" height="300"/>
 
 NeuroPause is a browser extension designed to facilitate screen breaks, with special attention to adapting for individuals affected by Asperger Syndrome. The extension offers a medium-sized contextual window that displays soft and calming colors. This design was developed in collaboration with a specialized nurse who specializes in caring for individuals with Asperger Syndrome, ensuring an environment that takes sensory sensitivities into account.
 
